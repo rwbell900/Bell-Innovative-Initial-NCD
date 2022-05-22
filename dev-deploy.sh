@@ -32,6 +32,7 @@ near dev-deploy ./res/rs_ncddemo.wasm
 echo --------------------------------------------
 echo run the following commands
 echo
+
 echo "export CONTRACT=<dev-1653168890126-82647320324793>"
 echo "export OWNER=your account Id"
 echo "near call \$CONTRACT new '{}' --accountId \$OWNER"
