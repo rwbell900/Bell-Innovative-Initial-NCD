@@ -46,8 +46,9 @@ The following environment variables are required for the following shell scripts
 
 Environment Variables that need to be set before using scripts:
 ###############################################################
+
 Export CONTRACTS = Contract name assigned by deployment
-Export OWNER = Account controled by you
+Export OWNER = Account controlled by you
 
 Scripts Provided
 ################
