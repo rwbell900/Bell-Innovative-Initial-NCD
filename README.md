@@ -1,16 +1,17 @@
 # Rust Smart Contract a Wholesale Destributor and His Inventory and Orders and their status
-###########################################################################################
+###################################################################################
 
-  Background and description
-  ##########################
   This is the demo for my Certified Near Developer and a foundation to build on
   Going forward.
+
   In the long-run this contract will be accessed by two different e-commerce front
   end websites. 
+  
   1.  The application portal for a Manufacturer that in this example manufactures
       Bags and cases of bags of product.  My familly has an interest in a company XtraGrow LLC
       That makes an OMRI listed soil enhancement product.  Web site www.xtragrow.com
       This is the product that I have in mind for the first test case.
+  
   2.  The e-commerce for a wholesale destributor that sells the product in this example on
       their website and pre-purchases inventory that is held by the manufacturer and drop shipped
       to customers of the wholesale destributor by the manufacturer based on orders added to the contract.
