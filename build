@@ -1,0 +1,1575 @@
+Script started on 2022-05-20 15:39:05-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="114" LINES="32"]
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ ls
+Cargo.lock  Cargo.toml  README.md  build  [0m[01;32mbuild.bat[0m  [01;32mbuild.sh[0m  [01;34mneardev[0m  [01;34mres[0m  [01;34msrc[0m  [01;34mtarget[0m  [01;32mtest.sh[0m  typescript
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ cd res
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ ls
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ cd .
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ bash build
+bash: build: No such file or directory
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ ls[K[Kcd ..
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ build[K[K[K[Kash build
+build: line 1: Script: command not found
+build: line 2: $'\E]0': command not found
+build: line 2: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 2: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 2: 34m~/near-demo/rs-ncddemo[00m$: No such file or directory
+build: line 3: Cargo.lock: command not found
+build: line 3: $'32mbuild.bat\E[0m': command not found
+build: line 3: $'32mbuild.sh\E[0m': command not found
+build: line 3: $'34mneardev\E[0m': command not found
+build: line 3: $'34mres\E[0m': command not found
+build: line 3: $'34msrc\E[0m': command not found
+build: line 3: $'34mtarget\E[0m': command not found
+build: line 3: $'32mtest.sh\E[0m': command not found
+build: line 4: $'\E]0': command not found
+build: line 4: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 4: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 4: 34m~/near-demo/rs-ncddemo[00m$: No such file or directory
+build: line 5: $'\E]0': command not found
+build: line 5: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 5: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 5: 34m~/near-demo/rs-ncddemo/res[00m$: No such file or directory
+build: line 6: $'\E]0': command not found
+build: line 6: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 6: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 6: 34m~/near-demo/rs-ncddemo/res[00m$: No such file or directory
+build: line 7: $'\E]0': command not found
+build: line 7: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 7: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 7: 34m~/near-demo/rs-ncddemo/res[00m$: No such file or directory
+build: line 8: bash:: command not found
+build: line 9: $'\E]0': command not found
+build: line 9: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 9: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 9: 34m~/near-demo/rs-ncddemo/res[00m$: No such file or directory
+build: line 10: $'\E]0': command not found
+build: line 10: rwbell@Richards-Alienware-Laptop:: command not found
+build: line 10: $'32mrwbell@Richards-Alienware-Laptop\E[00m:\E[01': command not found
+build: line 10: 34m~/near-demo/rs-ncddemo[00m$: No such file or directory
+build: line 11: build:: command not found
+build: line 12: build:: command not found
+build: line 13: build:: command not found
+build: line 14: build:: command not found
+build: line 15: build:: command not found
+build: line 16: build:: command not found
+build: line 17: build:: command not found
+build: line 18: build:: command not found
+build: line 19: build:: command not found
+build: line 20: build:: command not found
+build: line 21: build:: command not found
+build: line 22: build:: command not found
+build: line 23: build:: command not found
+build: line 24: build:: command not found
+build: line 25: build:: command not found
+build: line 26: build:: command not found
+build: line 27: build:: command not found
+build: line 28: build:: command not found
+build: line 29: build:: command not found
+build: line 30: build:: command not found
+build: line 31: build:: command not found
+build: line 32: build:: command not found
+build: line 33: build:: command not found
+build: line 34: build:: command not found
+build: line 35: build:: command not found
+build: line 36: build:: command not found
+build: line 37: build:: command not found
+build: line 38: build:: command not found
+build: line 39: build:: command not found
+build: line 40: build:: command not found
+build: line 41: build:: command not found
+build: line 42: build:: command not found
+build: line 43: build:: command not found
+build: line 44: build:: command not found
+build: line 45: build:: command not found
+build: line 46: build:: command not found
+build: line 47: build:: command not found
+build: line 48: build:: command not found
+build: line 49: build:: command not found
+build: line 50: build:: command not found
+build: line 51: build:: command not found
+build: line 52: build:: command not found
+build: line 53: build:: command not found
+build: line 54: build:: command not found
+build: line 55: build:: command not found
+build: line 56: build:: command not found
+build: line 57: build:: command not found
+build: line 58: build:: command not found
+build: line 59: build:: command not found
+build: line 60: build:: command not found
+build: line 61: build:: command not found
+build: line 62: build:: command not found
+build: line 63: build:: command not found
+build: line 64: build:: command not found
+build: line 65: build:: command not found
+build: line 66: build:: command not found
+build: line 67: build:: command not found
+build: line 68: build:: command not found
+build: line 69: build:: command not found
+build: line 70: build:: command not found
+build: line 71: build:: command not found
+build: line 72: build:: command not found
+build: line 73: build:: command not found
+build: line 74: build:: command not found
+build: line 75: build:: command not found
+build: line 76: build:: command not found
+build: line 77: build:: command not found
+build: line 78: build:: command not found
+build: line 79: build:: command not found
+build: line 80: build:: command not found
+build: line 81: build:: command not found
+build: line 82: build:: command not found
+build: line 83: build:: command not found
+build: line 84: build:: command not found
+build: line 85: build:: command not found
+build: line 86: build:: command not found
+build: line 87: build:: command not found
+build: line 88: build:: command not found
+build: line 89: build:: command not found
+build: line 90: build:: command not found
+build: line 91: build:: command not found
+build: line 92: build:: command not found
+build: line 93: build:: command not found
+build: line 94: build:: command not found
+build: line 95: build:: command not found
+build: line 96: build:: command not found
+build: line 97: build:: command not found
+build: line 98: build:: command not found
+build: line 99: build:: command not found
+build: line 100: build:: command not found
+build: line 101: build:: command not found
+build: line 102: build:: command not found
+build: line 103: build:: command not found
+build: line 104: build:: command not found
+build: line 105: build:: command not found
+build: line 106: build:: command not found
+build: line 107: build:: command not found
+build: line 108: build:: command not found
+build: line 109: build:: command not found
+build: line 110: build:: command not found
+build: line 111: build:: command not found
+build: line 112: build:: command not found
+build: line 113: build:: command not found
+build: line 114: build:: command not found
+build: line 115: build:: command not found
+build: line 116: build:: command not found
+build: line 117: build:: command not found
+build: line 118: build:: command not found
+build: line 119: build:: command not found
+build: line 120: build:: command not found
+build: line 121: build:: command not found
+build: line 122: build:: command not found
+build: line 123: build:: command not found
+build: line 124: build:: command not found
+build: line 125: build:: command not found
+build: line 126: build:: command not found
+build: line 127: build:: command not found
+build: line 128: build:: command not found
+build: line 129: build:: command not found
+build: line 130: build:: command not found
+build: line 131: build:: command not found
+build: line 132: build:: command not found
+build: line 133: build:: command not found
+build: line 134: build:: command not found
+build: line 135: build:: command not found
+build: line 136: build:: command not found
+build: line 137: build:: command not found
+build: line 138: build:: command not found
+build: line 139: build:: command not found
+build: line 140: build:: command not found
+build: line 141: build:: command not found
+build: line 142: build:: command not found
+build: line 143: build:: command not found
+build: line 144: build:: command not found
+build: line 145: build:: command not found
+build: line 146: build:: command not found
+build: line 147: build:: command not found
+build: line 148: build:: command not found
+build: line 149: build:: command not found
+build: line 150: build:: command not found
+build: line 151: build:: command not found
+build: line 152: build:: command not found
+build: line 153: build:: command not found
+build: line 154: build:: command not found
+build: line 155: build:: command not found
+build: line 156: build:: command not found
+build: line 157: build:: command not found
+build: line 158: build:: command not found
+build: line 159: build:: command not found
+build: line 160: build:: command not found
+build: line 161: build:: command not found
+build: line 162: build:: command not found
+build: line 163: build:: command not found
+build: line 164: build:: command not found
+build: line 165: build:: command not found
+build: line 166: build:: command not found
+build: line 167: build:: command not found
+build: line 168: build:: command not found
+build: line 169: build:: command not found
+build: line 170: build:: command not found
+build: line 171: build:: command not found
+build: line 172: build:: command not found
+build: line 173: build:: command not found
+build: line 174: build:: command not found
+build: line 175: build:: command not found
+build: line 176: build:: command not found
+build: line 177: build:: command not found
+build: line 178: build:: command not found
+build: line 179: build:: command not found
+build: line 180: build:: command not found
+build: line 181: build:: command not found
+build: line 182: build:: command not found
+build: line 183: build:: command not found
+build: line 184: build:: command not found
+build: line 185: build:: command not found
+build: line 186: build:: command not found
+build: line 187: build:: command not found
+build: line 188: build:: command not found
+build: line 189: build:: command not found
+build: line 190: build:: command not found
+build: line 191: build:: command not found
+build: line 192: build:: command not found
+build: line 193: build:: command not found
+build: line 194: build:: command not found
+build: line 195: build:: command not found
+build: line 196: build:: command not found
+build: line 197: build:: command not found
+build: line 198: build:: command not found
+build: line 199: build:: command not found
+build: line 200: build:: command not found
+build: line 201: build:: command not found
+build: line 202: build:: command not found
+build: line 203: build:: command not found
+build: line 204: build:: command not found
+build: line 205: build:: command not found
+build: line 206: build:: command not found
+build: line 207: build:: command not found
+build: line 208: build:: command not found
+build: line 209: build:: command not found
+build: line 210: build:: command not found
+build: line 211: build:: command not found
+build: line 212: build:: command not found
+build: line 213: build:: command not found
+build: line 214: build:: command not found
+build: line 215: build:: command not found
+build: line 216: build:: command not found
+build: line 217: build:: command not found
+build: line 218: build:: command not found
+build: line 219: build:: command not found
+build: line 220: build:: command not found
+build: line 221: build:: command not found
+build: line 222: build:: command not found
+build: line 223: build:: command not found
+build: line 224: build:: command not found
+build: line 225: build:: command not found
+build: line 226: build:: command not found
+build: line 227: build:: command not found
+build: line 228: build:: command not found
+build: line 229: build:: command not found
+build: line 230: build:: command not found
+build: line 231: build:: command not found
+build: line 232: build:: command not found
+build: line 233: build:: command not found
+build: line 234: build:: command not found
+build: line 235: build:: command not found
+build: line 236: build:: command not found
+build: line 237: build:: command not found
+build: line 238: build:: command not found
+build: line 239: build:: command not found
+build: line 240: build:: command not found
+build: line 241: build:: command not found
+build: line 242: build:: command not found
+build: line 243: build:: command not found
+build: line 244: build:: command not found
+build: line 245: build:: command not found
+build: line 246: build:: command not found
+build: line 247: build:: command not found
+build: line 248: build:: command not found
+build: line 249: build:: command not found
+build: line 250: build:: command not found
+build: line 251: build:: command not found
+build: line 252: build:: command not found
+build: line 253: build:: command not found
+build: line 254: build:: command not found
+build: line 255: build:: command not found
+build: line 256: build:: command not found
+build: line 257: build:: command not found
+build: line 258: build:: command not found
+build: line 259: build:: command not found
+build: line 260: build:: command not found
+build: line 261: build:: command not found
+build: line 262: build:: command not found
+build: line 263: build:: command not found
+build: line 264: build:: command not found
+build: line 265: build:: command not found
+build: line 266: build:: command not found
+build: line 267: build:: command not found
+build: line 268: build:: command not found
+build: line 269: build:: command not found
+build: line 270: build:: command not found
+build: line 271: build:: command not found
+build: line 272: build:: command not found
+build: line 273: build:: command not found
+build: line 274: build:: command not found
+build: line 275: build:: command not found
+^Vbuild: line 276: build:: command not found
+build: line 277: build:: command not found
+build: line 278: build:: command not found
+build: line 279: build:: command not found
+build: line 280: build:: command not found
+build: line 281: build:: command not found
+build: line 282: build:: command not found
+build: line 283: build:: command not found
+build: line 284: build:: command not found
+build: line 285: build:: command not found
+build: line 286: build:: command not found
+build: line 287: build:: command not found
+build: line 288: build:: command not found
+build: line 289: build:: command not found
+build: line 290: build:: command not found
+build: line 291: build:: command not found
+build: line 292: build:: command not found
+build: line 293: build:: command not found
+build: line 294: build:: command not found
+build: line 295: build:: command not found
+build: line 296: build:: command not found
+^Vbuild: line 297: build:: command not found
+build: line 298: build:: command not found
+build: line 299: build:: command not found
+build: line 300: build:: command not found
+build: line 301: build:: command not found
+build: line 302: build:: command not found
+build: line 303: build:: command not found
+build: line 304: build:: command not found
+build: line 305: build:: command not found
+build: line 306: build:: command not found
+build: line 307: build:: command not found
+build: line 308: build:: command not found
+^Vbuild: line 309: build:: command not found
+build: line 310: build:: command not found
+build: line 311: build:: command not found
+build: line 312: build:: command not found
+build: line 313: build:: command not found
+^Vbuild: line 314: ^Vbuild:: command not found
+build: line 315: build:: command not found
+build: line 316: build:: command not found
+^Vbuild: line 317: build:: command not found
+build: line 318: build:: command not found
+build: line 319: build:: command not found
+build: line 320: build:: command not found
+^Vbuild: line 321: build:: command not found
+build: line 322: build:: command not found
+build: line 323: build:: command not found
+build: line 324: build:: command not found
+^Vbuild: line 325: build:: command not found
+build: line 326: build:: command not found
+build: line 327: build:: command not found
+build: line 328: build:: command not found
+^Vbuild: line 329: build:: command not found
+build: line 330: build:: command not found
+build: line 331: build:: command not found
+build: line 332: build:: command not found
+^Vbuild: line 333: build:: command not found
+build: line 334: build:: command not found
+build: line 335: ^Vbuild:: command not found
+^Vbuild: line 336: build:: command not found
+build: line 337: build:: command not found
+build: line 338: build:: command not found
+build: line 339: build:: command not found
+build: line 340: build:: command not found
+build: line 341: build:: command not found
+build: line 342: build:: command not found
+build: line 343: build:: command not found
+build: line 344: build:: command not found
+build: line 345: build:: command not found
+build: line 346: build:: command not found
+
+build: line 347: ^Vbuild:: command not found
+build: line 348: build:: command not found
+build: line 349: build:: command not found
+build: line 350: build:: command not found
+build: line 351: build:: command not found
+build: line 352: ^Vbuild:: command not found
+build: line 353: build:: command not found
+build: line 354: build:: command not found
+build: line 355: ^Vbuild:: command not found
+build: line 356: build:: command not found
+build: line 357: build:: command not found
+build: line 358: build:: command not found
+build: line 359: ^Vbuild:: command not found
+build: line 360: build:: command not found
+build: line 361: build:: command not found
+build: line 362: build:: command not found
+build: line 363: ^Vbuild:: command not found
+build: line 364: build:: command not found
+build: line 365: build:: command not found
+build: line 366: build:: command not found
+build: line 367: ^Vbuild:: command not found
+build: line 368: build:: command not found
+build: line 369: build:: command not found
+build: line 370: build:: command not found
+build: line 371: ^Vbuild:: command not found
+build: line 372: build:: command not found
+build: line 373: build:: command not found
+build: line 374: ^Vbuild:: command not found
+build: line 375: build:: command not found
+build: line 376: build:: command not found
+build: line 377: build:: command not found
+build: line 378: build:: command not found
+build: line 379: build:: command not found
+build: line 380: build:: command not found
+build: line 381: build:: command not found
+build: line 382: build:: command not found
+build: line 383: build:: command not found
+build: line 384: build:: command not found
+build: line 385: $'\r': command not found
+build: line 386: build:: command not found
+build: line 387: build:: command not found
+build: line 388: build:: command not found
+build: line 389: build:: command not found
+build: line 390: build:: command not found
+build: line 391: build:: command not found
+build: line 392: build:: command not found
+build: line 393: build:: command not found
+build: line 394: build:: command not found
+build: line 395: build:: command not found
+build: line 396: build:: command not found
+build: line 397: build:: command not found
+build: line 398: build:: command not found
+build: line 399: build:: command not found
+build: line 400: build:: command not found
+build: line 401: build:: command not found
+build: line 402: build:: command not found
+build: line 403: build:: command not found
+build: line 404: build:: command not found
+build: line 405: build:: command not found
+build: line 406: build:: command not found
+build: line 407: build:: command not found
+build: line 408: build:: command not found
+^[build: line 409: build:: command not found
+build: line 410: build:: command not found
+build: line 411: build:: command not found
+build: line 412: build:: command not found
+build: line 413: build:: command not found
+build: line 414: build:: command not found
+build: line 415: build:: command not found
+build: line 416: build:: command not found
+build: line 417: build:: command not found
+build: line 418: build:: command not found
+build: line 419: build:: command not found
+build: line 420: build:: command not found
+build: line 421: build:: command not found
+build: line 422: build:: command not found
+build: line 423: build:: command not found
+build: line 424: build:: command not found
+build: line 425: build:: command not found
+build: line 426: build:: command not found
+build: line 427: build:: command not found
+build: line 428: build:: command not found
+build: line 429: build:: command not found
+build: line 430: build:: command not found
+build: line 431: build:: command not found
+build: line 432: build:: command not found
+^[build: line 433: build:: command not found
+build: line 434: build:: command not found
+build: line 435: build:: command not found
+build: line 436: build:: command not found
+build: line 437: build:: command not found
+build: line 438: build:: command not found
+^[build: line 439: build:: command not found
+build: line 440: build:: command not found
+build: line 441: build:: command not found
+build: line 442: build:: command not found
+build: line 443: build:: command not found
+^[build: line 444: build:: command not found
+build: line 445: build:: command not found
+build: line 446: build:: command not found
+build: line 447: build:: command not found
+^[build: line 448: ^[build:: command not found
+build: line 449: build:: command not found
+build: line 450: build:: command not found
+build: line 451: build:: command not found
+^[build: line 452: build:: command not found
+build: line 453: build:: command not found
+build: line 454: build:: command not found
+build: line 455: build:: command not found
+^[build: line 456: build:: command not found
+build: line 457: build:: command not found
+build: line 458: build:: command not found
+build: line 459: build:: command not found
+^[build: line 460: build:: command not found
+build: line 461: build:: command not found
+build: line 462: build:: command not found
+build: line 463: build:: command not found
+^[build: line 464: build:: command not found
+build: line 465: build:: command not found
+build: line 466: build:: command not found
+build: line 467: build:: command not found
+build: line 468: build:: command not found
+build: line 469: build:: command not found
+build: line 470: build:: command not found
+build: line 471: build:: command not found
+build: line 472: ^[build:: command not found
+build: line 473: build:: command not found
+build: line 474: build:: command not found
+build: line 475: build:: command not found
+build: line 476: build:: command not found
+build: line 477: build:: command not found
+build: line 478: ^[build:: command not found
+build: line 479: build:: command not found
+build: line 480: build:: command not found
+build: line 481: build:: command not found
+build: line 482: build:: command not found
+build: line 483: ^[build:: command not found
+build: line 484: build:: command not found
+build: line 485: build:: command not found
+build: line 486: build:: command not found
+build: line 487: ^[build:: command not found
+build: line 488: build:: command not found
+build: line 489: build:: command not found
+build: line 490: build:: command not found
+build: line 491: ^[build:: command not found
+build: line 492: build:: command not found
+build: line 493: build:: command not found
+build: line 494: build:: command not found
+build: line 495: ^[build:: command not found
+build: line 496: build:: command not found
+build: line 497: build:: command not found
+build: line 498: build:: command not found
+build: line 499: ^[build:: command not found
+build: line 500: build:: command not found
+build: line 501: build:: command not found
+build: line 502: build:: command not found
+build: line 503: ^[build:: command not found
+build: line 504: build:: command not found
+build: line 505: build:: command not found
+build: line 506: build:: command not found
+build: line 507: build:: command not found
+build: line 508: build:: command not found
+build: line 509: build:: command not found
+build: line 510: build:: command not found
+build: line 511: build:: command not found
+build: line 512: build:: command not found
+build: line 513: build:: command not found
+build: line 514: build:: command not found
+build: line 515: build:: command not found
+build: line 516: build:: command not found
+build: line 517: build:: command not found
+build: line 518: build:: command not found
+build: line 519: build:: command not found
+build: line 520: build:: command not found
+build: line 521: build:: command not found
+build: line 522: build:: command not found
+build: line 523: build:: command not found
+build: line 524: build:: command not found
+build: line 525: build:: command not found
+build: line 526: build:: command not found
+build: line 527: build:: command not found
+build: line 528: build:: command not found
+^C
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ ^C
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ ^C
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ code .
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ sh build
+build: 1: Script: not found
+build: 2: ]0: not found
+build: 2: rwbell@Richards-Alienware-Laptop:: not found
+build: 2: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 2: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 3: Cargo.lock: not found
+build: 3: 32mbuild.bat[0m: not found
+build: 3: 32mbuild.sh[0m: not found
+build: 3: 34mneardev[0m: not found
+build: 3: 34mres[0m: not found
+build: 3: 34msrc[0m: not found
+build: 3: 34mtarget[0m: not found
+build: 3: 32mtest.sh[0m: not found
+build: 4: ]0: not found
+build: 4: rwbell@Richards-Alienware-Laptop:: not found
+build: 4: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 4: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 5: ]0: not found
+build: 5: rwbell@Richards-Alienware-Laptop:: not found
+build: 5: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 5: 34m~/near-demo/rs-ncddemo/res[00m$: not found
+build: 6: ]0: not found
+build: 6: rwbell@Richards-Alienware-Laptop:: not found
+build: 6: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 6: 34m~/near-demo/rs-ncddemo/res[00m$: not found
+build: 7: ]0: not found
+build: 7: rwbell@Richards-Alienware-Laptop:: not found
+build: 7: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 7: 34m~/near-demo/rs-ncddemo/res[00m$: not found
+build: 8: bash:: not found
+build: 9: ]0: not found
+build: 9: rwbell@Richards-Alienware-Laptop:: not found
+build: 9: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 9: 34m~/near-demo/rs-ncddemo/res[00m$: not found
+build: 10: ]0: not found
+build: 10: rwbell@Richards-Alienware-Laptop:: not found
+build: 10: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 10: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 11: build:: not found
+build: 12: build:: not found
+build: 13: build:: not found
+build: 14: build:: not found
+build: 15: build:: not found
+build: 16: build:: not found
+build: 17: build:: not found
+build: 18: build:: not found
+build: 19: build:: not found
+build: 20: build:: not found
+build: 21: build:: not found
+build: 22: build:: not found
+build: 23: build:: not found
+build: 24: build:: not found
+build: 25: build:: not found
+build: 26: build:: not found
+build: 27: build:: not found
+build: 28: build:: not found
+build: 29: build:: not found
+build: 30: build:: not found
+build: 31: build:: not found
+build: 32: build:: not found
+build: 33: build:: not found
+build: 34: build:: not found
+build: 35: build:: not found
+build: 36: build:: not found
+build: 37: build:: not found
+build: 38: build:: not found
+build: 39: build:: not found
+build: 40: build:: not found
+build: 41: build:: not found
+build: 42: build:: not found
+build: 43: build:: not found
+build: 44: build:: not found
+build: 45: build:: not found
+build: 46: build:: not found
+build: 47: build:: not found
+build: 48: build:: not found
+build: 49: build:: not found
+build: 50: build:: not found
+build: 51: build:: not found
+build: 52: build:: not found
+build: 53: build:: not found
+build: 54: build:: not found
+build: 55: build:: not found
+build: 56: build:: not found
+build: 57: build:: not found
+build: 58: build:: not found
+build: 59: build:: not found
+build: 60: build:: not found
+build: 61: build:: not found
+build: 62: build:: not found
+build: 63: build:: not found
+build: 64: build:: not found
+build: 65: build:: not found
+build: 66: build:: not found
+build: 67: build:: not found
+build: 68: build:: not found
+build: 69: build:: not found
+build: 70: build:: not found
+build: 71: build:: not found
+build: 72: build:: not found
+build: 73: build:: not found
+build: 74: build:: not found
+build: 75: build:: not found
+build: 76: build:: not found
+build: 77: build:: not found
+build: 78: build:: not found
+build: 79: build:: not found
+build: 80: build:: not found
+build: 81: build:: not found
+build: 82: build:: not found
+build: 83: build:: not found
+build: 84: build:: not found
+build: 85: build:: not found
+build: 86: build:: not found
+build: 87: build:: not found
+build: 88: build:: not found
+build: 89: build:: not found
+build: 90: build:: not found
+build: 91: build:: not found
+build: 92: build:: not found
+build: 93: build:: not found
+build: 94: build:: not found
+build: 95: build:: not found
+build: 96: build:: not found
+build: 97: build:: not found
+build: 98: build:: not found
+build: 99: build:: not found
+build: 100: build:: not found
+build: 101: build:: not found
+build: 102: build:: not found
+build: 103: build:: not found
+build: 104: build:: not found
+build: 105: build:: not found
+build: 106: build:: not found
+build: 107: build:: not found
+build: 108: build:: not found
+build: 109: build:: not found
+build: 110: build:: not found
+build: 111: build:: not found
+build: 112: build:: not found
+build: 113: build:: not found
+build: 114: build:: not found
+build: 115: build:: not found
+build: 116: build:: not found
+build: 117: build:: not found
+build: 118: build:: not found
+build: 119: build:: not found
+build: 120: build:: not found
+build: 121: build:: not found
+build: 122: build:: not found
+build: 123: build:: not found
+build: 124: build:: not found
+build: 125: build:: not found
+build: 126: build:: not found
+build: 127: build:: not found
+build: 128: build:: not found
+build: 129: build:: not found
+build: 130: build:: not found
+build: 131: build:: not found
+build: 132: build:: not found
+build: 133: build:: not found
+build: 134: build:: not found
+build: 135: build:: not found
+build: 136: build:: not found
+build: 137: build:: not found
+build: 138: build:: not found
+build: 139: build:: not found
+build: 140: build:: not found
+build: 141: build:: not found
+build: 142: build:: not found
+build: 143: build:: not found
+build: 144: build:: not found
+build: 145: build:: not found
+build: 146: build:: not found
+build: 147: build:: not found
+build: 148: build:: not found
+build: 149: build:: not found
+build: 150: build:: not found
+build: 151: build:: not found
+build: 152: build:: not found
+build: 153: build:: not found
+build: 154: build:: not found
+build: 155: build:: not found
+build: 156: build:: not found
+build: 157: build:: not found
+build: 158: build:: not found
+build: 159: build:: not found
+build: 160: build:: not found
+build: 161: build:: not found
+build: 162: build:: not found
+build: 163: build:: not found
+build: 164: build:: not found
+build: 165: build:: not found
+build: 166: build:: not found
+build: 167: build:: not found
+build: 168: build:: not found
+build: 169: build:: not found
+build: 170: build:: not found
+build: 171: build:: not found
+build: 172: build:: not found
+build: 173: build:: not found
+build: 174: build:: not found
+build: 175: build:: not found
+build: 176: build:: not found
+build: 177: build:: not found
+build: 178: build:: not found
+build: 179: build:: not found
+build: 180: build:: not found
+build: 181: build:: not found
+build: 182: build:: not found
+build: 183: build:: not found
+build: 184: build:: not found
+build: 185: build:: not found
+build: 186: build:: not found
+build: 187: build:: not found
+build: 188: build:: not found
+build: 189: build:: not found
+build: 190: build:: not found
+build: 191: build:: not found
+build: 192: build:: not found
+build: 193: build:: not found
+build: 194: build:: not found
+build: 195: build:: not found
+build: 196: build:: not found
+build: 197: build:: not found
+build: 198: build:: not found
+build: 199: build:: not found
+build: 200: build:: not found
+build: 201: build:: not found
+build: 202: build:: not found
+build: 203: build:: not found
+build: 204: build:: not found
+build: 205: build:: not found
+build: 206: build:: not found
+build: 207: build:: not found
+build: 208: build:: not found
+build: 209: build:: not found
+build: 210: build:: not found
+build: 211: build:: not found
+build: 212: build:: not found
+build: 213: build:: not found
+build: 214: build:: not found
+build: 215: build:: not found
+build: 216: build:: not found
+build: 217: build:: not found
+build: 218: build:: not found
+build: 219: build:: not found
+build: 220: build:: not found
+build: 221: build:: not found
+build: 222: build:: not found
+build: 223: build:: not found
+build: 224: build:: not found
+build: 225: build:: not found
+build: 226: build:: not found
+build: 227: build:: not found
+build: 228: build:: not found
+build: 229: build:: not found
+build: 230: build:: not found
+build: 231: build:: not found
+build: 232: build:: not found
+build: 233: build:: not found
+build: 234: build:: not found
+build: 235: build:: not found
+build: 236: build:: not found
+build: 237: build:: not found
+build: 238: build:: not found
+build: 239: build:: not found
+build: 240: build:: not found
+build: 241: build:: not found
+build: 242: build:: not found
+build: 243: build:: not found
+build: 244: build:: not found
+build: 245: build:: not found
+build: 246: build:: not found
+build: 247: build:: not found
+build: 248: build:: not found
+build: 249: build:: not found
+build: 250: build:: not found
+build: 251: build:: not found
+build: 252: build:: not found
+build: 253: build:: not found
+build: 254: build:: not found
+build: 255: build:: not found
+build: 256: build:: not found
+build: 257: build:: not found
+build: 258: build:: not found
+build: 259: build:: not found
+build: 260: build:: not found
+build: 261: build:: not found
+build: 262: build:: not found
+build: 263: build:: not found
+build: 264: build:: not found
+build: 265: build:: not found
+build: 266: build:: not found
+build: 267: build:: not found
+build: 268: build:: not found
+build: 269: build:: not found
+build: 270: build:: not found
+build: 271: build:: not found
+build: 272: build:: not found
+build: 273: build:: not found
+build: 274: build:: not found
+build: 275: build:: not found
+build: 276: build:: not found
+build: 277: build:: not found
+build: 278: build:: not found
+build: 279: build:: not found
+build: 280: build:: not found
+build: 281: build:: not found
+build: 282: build:: not found
+build: 283: build:: not found
+build: 284: build:: not found
+build: 285: build:: not found
+build: 286: build:: not found
+build: 287: build:: not found
+build: 288: build:: not found
+build: 289: build:: not found
+build: 290: build:: not found
+build: 291: build:: not found
+build: 292: build:: not found
+build: 293: build:: not found
+build: 294: build:: not found
+build: 295: build:: not found
+build: 296: build:: not found
+build: 297: build:: not found
+build: 298: build:: not found
+build: 299: build:: not found
+build: 300: build:: not found
+build: 301: build:: not found
+build: 302: build:: not found
+build: 303: build:: not found
+build: 304: build:: not found
+build: 305: build:: not found
+build: 306: build:: not found
+build: 307: build:: not found
+build: 308: build:: not found
+build: 309: build:: not found
+build: 310: build:: not found
+build: 311: build:: not found
+build: 312: build:: not found
+build: 313: build:: not found
+build: 314: ^Vbuild:: not found
+build: 315: build:: not found
+build: 316: build:: not found
+build: 317: build:: not found
+build: 318: build:: not found
+build: 319: build:: not found
+build: 320: build:: not found
+build: 321: build:: not found
+build: 322: build:: not found
+build: 323: build:: not found
+build: 324: build:: not found
+build: 325: build:: not found
+build: 326: build:: not found
+build: 327: build:: not found
+build: 328: build:: not found
+build: 329: build:: not found
+build: 330: build:: not found
+build: 331: build:: not found
+build: 332: build:: not found
+build: 333: build:: not found
+build: 334: build:: not found
+build: 335: ^Vbuild:: not found
+build: 336: build:: not found
+build: 337: build:: not found
+build: 338: build:: not found
+build: 339: build:: not found
+build: 340: build:: not found
+build: 341: build:: not found
+build: 342: build:: not found
+build: 343: build:: not found
+build: 344: build:: not found
+build: 345: build:: not found
+build: 346: build:: not found
+build: 347: ^Vbuild:: not found
+build: 348: build:: not found
+build: 349: build:: not found
+build: 350: build:: not found
+build: 351: build:: not found
+build: 352: ^Vbuild:: not found
+build: 353: build:: not found
+build: 354: build:: not found
+build: 355: ^Vbuild:: not found
+build: 356: build:: not found
+build: 357: build:: not found
+build: 358: build:: not found
+build: 359: ^Vbuild:: not found
+build: 360: build:: not found
+build: 361: build:: not found
+build: 362: build:: not found
+build: 363: ^Vbuild:: not found
+build: 364: build:: not found
+build: 365: build:: not found
+build: 366: build:: not found
+build: 367: ^Vbuild:: not found
+build: 368: build:: not found
+build: 369: build:: not found
+build: 370: build:: not found
+build: 371: ^Vbuild:: not found
+build: 372: build:: not found
+build: 373: build:: not found
+build: 374: ^Vbuild:: not found
+build: 375: build:: not found
+build: 376: build:: not found
+build: 377: build:: not found
+build: 378: build:: not found
+build: 379: build:: not found
+build: 380: build:: not found
+build: 381: build:: not found
+build: 382: build:: not found
+build: 383: build:: not found
+build: 384: build:: not found
+build: 385: : not found
+build: 386: build:: not found
+build: 387: build:: not found
+build: 388: build:: not found
+build: 389: build:: not found
+build: 390: build:: not found
+build: 391: build:: not found
+build: 392: build:: not found
+build: 393: build:: not found
+build: 394: build:: not found
+build: 395: build:: not found
+build: 396: build:: not found
+build: 397: build:: not found
+build: 398: build:: not found
+build: 399: build:: not found
+build: 400: build:: not found
+build: 401: build:: not found
+build: 402: build:: not found
+build: 403: build:: not found
+build: 404: build:: not found
+build: 405: build:: not found
+build: 406: build:: not found
+build: 407: build:: not found
+build: 408: build:: not found
+build: 409: build:: not found
+build: 410: build:: not found
+build: 411: build:: not found
+build: 412: build:: not found
+build: 413: build:: not found
+build: 414: build:: not found
+build: 415: build:: not found
+build: 416: build:: not found
+build: 417: build:: not found
+build: 418: build:: not found
+build: 419: build:: not found
+build: 420: build:: not found
+build: 421: build:: not found
+build: 422: build:: not found
+build: 423: build:: not found
+build: 424: build:: not found
+build: 425: build:: not found
+build: 426: build:: not found
+build: 427: build:: not found
+build: 428: build:: not found
+build: 429: build:: not found
+build: 430: build:: not found
+build: 431: build:: not found
+build: 432: build:: not found
+build: 433: build:: not found
+build: 434: build:: not found
+build: 435: build:: not found
+build: 436: build:: not found
+build: 437: build:: not found
+build: 438: build:: not found
+build: 439: build:: not found
+build: 440: build:: not found
+build: 441: build:: not found
+build: 442: build:: not found
+build: 443: build:: not found
+build: 444: build:: not found
+build: 445: build:: not found
+build: 446: build:: not found
+build: 447: build:: not found
+build: 448: ^[build:: not found
+build: 449: build:: not found
+build: 450: build:: not found
+build: 451: build:: not found
+build: 452: build:: not found
+build: 453: build:: not found
+build: 454: build:: not found
+build: 455: build:: not found
+build: 456: build:: not found
+build: 457: build:: not found
+build: 458: build:: not found
+build: 459: build:: not found
+build: 460: build:: not found
+build: 461: build:: not found
+build: 462: build:: not found
+build: 463: build:: not found
+build: 464: build:: not found
+build: 465: build:: not found
+build: 466: build:: not found
+build: 467: build:: not found
+build: 468: build:: not found
+build: 469: build:: not found
+build: 470: build:: not found
+build: 471: build:: not found
+build: 472: ^[build:: not found
+build: 473: build:: not found
+build: 474: build:: not found
+build: 475: build:: not found
+build: 476: build:: not found
+build: 477: build:: not found
+build: 478: ^[build:: not found
+build: 479: build:: not found
+build: 480: build:: not found
+build: 481: build:: not found
+build: 482: build:: not found
+build: 483: ^[build:: not found
+build: 484: build:: not found
+build: 485: build:: not found
+build: 486: build:: not found
+build: 487: ^[build:: not found
+build: 488: build:: not found
+build: 489: build:: not found
+build: 490: build:: not found
+build: 491: ^[build:: not found
+build: 492: build:: not found
+build: 493: build:: not found
+build: 494: build:: not found
+build: 495: ^[build:: not found
+build: 496: build:: not found
+build: 497: build:: not found
+build: 498: build:: not found
+build: 499: ^[build:: not found
+build: 500: build:: not found
+build: 501: build:: not found
+build: 502: build:: not found
+build: 503: ^[build:: not found
+build: 504: build:: not found
+build: 505: build:: not found
+build: 506: build:: not found
+build: 507: build:: not found
+build: 508: build:: not found
+build: 509: build:: not found
+build: 510: build:: not found
+build: 511: build:: not found
+build: 512: build:: not found
+build: 513: build:: not found
+build: 514: build:: not found
+build: 515: build:: not found
+build: 516: build:: not found
+build: 517: build:: not found
+build: 518: build:: not found
+build: 519: build:: not found
+build: 520: build:: not found
+build: 521: build:: not found
+build: 522: build:: not found
+build: 523: build:: not found
+build: 524: build:: not found
+build: 525: build:: not found
+build: 526: build:: not found
+build: 527: build:: not found
+build: 528: build:: not found
+build: 529: build:: not found
+build: 530: build:: not found
+build: 531: build:: not found
+build: 532: build:: not found
+build: 533: build:: not found
+build: 534: build:: not found
+build: 535: build:: not found
+build: 536: build:: not found
+build: 537: build:: not found
+build: 538: build:: not found
+build: 539: build:: not found
+build: 540: build:: not found
+build: 541: build:: not found
+build: 542: build:: not found
+build: 543: build:: not found
+build: 544: build:: not found
+build: 545: build:: not found
+build: 546: build:: not found
+build: 547: build:: not found
+build: 548: build:: not found
+build: 549: build:: not found
+build: 550: build:: not found
+build: 551: build:: not found
+build: 552: build:: not found
+build: 553: build:: not found
+build: 554: build:: not found
+build: 555: build:: not found
+build: 556: build:: not found
+build: 557: build:: not found
+build: 558: build:: not found
+build: 559: build:: not found
+build: 560: build:: not found
+build: 561: build:: not found
+build: 562: build:: not found
+build: 563: build:: not found
+build: 564: build:: not found
+build: 565: build:: not found
+build: 566: build:: not found
+build: 567: build:: not found
+build: 568: ^C: not found
+build: 569: ]0: not found
+build: 569: rwbell@Richards-Alienware-Laptop:: not found
+build: 569: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 569: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 570: ]0: not found
+build: 570: rwbell@Richards-Alienware-Laptop:: not found
+build: 570: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 570: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 571: ]0: not found
+build: 571: rwbell@Richards-Alienware-Laptop:: not found
+build: 571: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 571: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 572: ]0: not found
+build: 572: rwbell@Richards-Alienware-Laptop:: not found
+build: 572: 32mrwbell@Richards-Alienware-Laptop[00m:[01: not found
+build: 572: 34m~/near-demo/rs-ncddemo[00m$: not found
+build: 573: build:: not found
+build: 574: build:: not found
+build: 575: build:: not found
+build: 576: build:: not found
+build: 577: build:: not found
+build: 578: build:: not found
+build: 579: build:: not found
+build: 580: build:: not found
+build: 581: build:: not found
+build: 582: build:: not found
+build: 583: build:: not found
+build: 584: build:: not found
+build: 585: build:: not found
+build: 586: build:: not found
+build: 587: build:: not found
+build: 588: build:: not found
+build: 589: build:: not found
+build: 590: build:: not found
+build: 591: build:: not found
+build: 592: build:: not found
+build: 593: build:: not found
+build: 594: build:: not found
+build: 595: build:: not found
+build: 596: build:: not found
+build: 597: build:: not found
+build: 598: build:: not found
+build: 599: build:: not found
+build: 600: build:: not found
+build: 601: build:: not found
+build: 602: build:: not found
+build: 603: build:: not found
+build: 604: build:: not found
+build: 605: build:: not found
+build: 606: build:: not found
+build: 607: build:: not found
+build: 608: build:: not found
+build: 609: build:: not found
+build: 610: build:: not found
+build: 611: build:: not found
+build: 612: build:: not found
+build: 613: build:: not found
+build: 614: build:: not found
+build: 615: build:: not found
+build: 616: build:: not found
+build: 617: build:: not found
+build: 618: build:: not found
+build: 619: build:: not found
+build: 620: build:: not found
+build: 621: build:: not found
+build: 622: build:: not found
+build: 623: build:: not found
+build: 624: build:: not found
+build: 625: build:: not found
+build: 626: build:: not found
+build: 627: build:: not found
+build: 628: build:: not found
+build: 629: build:: not found
+build: 630: build:: not found
+build: 631: build:: not found
+build: 632: build:: not found
+build: 633: build:: not found
+build: 634: build:: not found
+build: 635: build:: not found
+build: 636: build:: not found
+build: 637: build:: not found
+build: 638: build:: not found
+build: 639: build:: not found
+build: 640: build:: not found
+build: 641: build:: not found
+build: 642: build:: not found
+build: 643: build:: not found
+build: 644: build:: not found
+build: 645: build:: not found
+build: 646: build:: not found
+build: 647: build:: not found
+build: 648: build:: not found
+build: 649: build:: not found
+build: 650: build:: not found
+build: 651: build:: not found
+build: 652: build:: not found
+build: 653: build:: not found
+build: 654: build:: not found
+build: 655: build:: not found
+build: 656: build:: not found
+build: 657: build:: not found
+build: 658: build:: not found
+build: 659: build:: not found
+build: 660: build:: not found
+build: 661: build:: not found
+build: 662: build:: not found
+build: 663: build:: not found
+build: 664: build:: not found
+build: 665: build:: not found
+build: 666: build:: not found
+build: 667: build:: not found
+build: 668: build:: not found
+build: 669: build:: not found
+build: 670: build:: not found
+build: 671: build:: not found
+build: 672: build:: not found
+build: 673: build:: not found
+build: 674: build:: not found
+build: 675: build:: not found
+build: 676: build:: not found
+build: 677: build:: not found
+build: 678: build:: not found
+build: 679: build:: not found
+build: 680: build:: not found
+build: 681: build:: not found
+build: 682: build:: not found
+build: 683: build:: not found
+build: 684: build:: not found
+build: 685: build:: not found
+build: 686: build:: not found
+build: 687: build:: not found
+build: 688: build:: not found
+build: 689: build:: not found
+build: 690: build:: not found
+build: 691: build:: not found
+build: 692: build:: not found
+build: 693: build:: not found
+build: 694: build:: not found
+build: 695: build:: not found
+build: 696: build:: not found
+build: 697: build:: not found
+build: 698: build:: not found
+build: 699: build:: not found
+build: 700: build:: not found
+build: 701: build:: not found
+build: 702: build:: not found
+build: 703: build:: not found
+build: 704: build:: not found
+build: 705: build:: not found
+build: 706: build:: not found
+build: 707: build:: not found
+build: 708: build:: not found
+build: 709: build:: not found
+build: 710: build:: not found
+build: 711: build:: not found
+build: 712: build:: not found
+build: 713: build:: not found
+build: 714: build:: not found
+build: 715: build:: not found
+build: 716: build:: not found
+build: 717: build:: not found
+build: 718: build:: not found
+build: 719: build:: not found
+build: 720: build:: not found
+build: 721: build:: not found
+build: 722: build:: not found
+build: 723: build:: not found
+build: 724: build:: not found
+build: 725: build:: not found
+build: 726: build:: not found
+build: 727: build:: not found
+build: 728: build:: not found
+build: 729: build:: not found
+build: 730: build:: not found
+build: 731: build:: not found
+build: 732: build:: not found
+build: 733: build:: not found
+build: 734: build:: not found
+build: 735: build:: not found
+build: 736: build:: not found
+build: 737: build:: not found
+build: 738: build:: not found
+build: 739: build:: not found
+build: 740: build:: not found
+build: 741: build:: not found
+build: 742: build:: not found
+build: 743: build:: not found
+build: 744: build:: not found
+build: 745: build:: not found
+build: 746: build:: not found
+build: 747: build:: not found
+build: 748: build:: not found
+build: 749: build:: not found
+build: 750: build:: not found
+build: 751: build:: not found
+build: 752: build:: not found
+build: 753: build:: not found
+build: 754: build:: not found
+build: 755: build:: not found
+build: 756: build:: not found
+build: 757: build:: not found
+build: 758: build:: not found
+build: 759: build:: not found
+build: 760: build:: not found
+build: 761: build:: not found
+build: 762: build:: not found
+build: 763: build:: not found
+build: 764: build:: not found
+build: 765: build:: not found
+build: 766: build:: not found
+build: 767: build:: not found
+build: 768: build:: not found
+build: 769: build:: not found
+build: 770: build:: not found
+build: 771: build:: not found
+build: 772: build:: not found
+build: 773: build:: not found
+build: 774: build:: not found
+build: 775: build:: not found
+build: 776: build:: not found
+build: 777: build:: not found
+build: 778: build:: not found
+build: 779: build:: not found
+build: 780: build:: not found
+build: 781: build:: not found
+build: 782: build:: not found
+build: 783: build:: not found
+build: 784: build:: not found
+build: 785: build:: not found
+build: 786: build:: not found
+build: 787: build:: not found
+build: 788: build:: not found
+build: 789: build:: not found
+build: 790: build:: not found
+build: 791: build:: not found
+build: 792: build:: not found
+build: 793: build:: not found
+build: 794: build:: not found
+build: 795: build:: not found
+build: 796: build:: not found
+build: 797: build:: not found
+build: 798: build:: not found
+build: 799: build:: not found
+build: 800: build:: not found
+build: 801: build:: not found
+build: 802: build:: not found
+build: 803: build:: not found
+build: 804: build:: not found
+build: 805: build:: not found
+build: 806: build:: not found
+build: 807: build:: not found
+build: 808: build:: not found
+build: 809: build:: not found
+build: 810: build:: not found
+build: 811: build:: not found
+build: 812: build:: not found
+build: 813: build:: not found
+build: 814: build:: not found
+build: 815: build:: not found
+build: 816: build:: not found
+build: 817: build:: not found
+build: 818: build:: not found
+build: 819: build:: not found
+build: 820: build:: not found
+build: 821: build:: not found
+build: 822: build:: not found
+build: 823: build:: not found
+build: 824: build:: not found
+build: 825: build:: not found
+^C
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ set -e
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ RUSTFLAGS='-C link-arg=-s' cargo build --target wasm32-unknown-unknown --release
+
+[0m[0m[1m[32m   Compiling[0m hashbrown v0.11.2
+[0m[0m[1m[32m   Compiling[0m ahash v0.4.7
+[0m[0m[1m[32m   Compiling[0m itoa v0.4.7
+[0m[0m[1m[32m   Compiling[0m cfg-if v0.1.10
+[0m[0m[1m[32m   Compiling[0m memory_units v0.4.0
+[0m[0m[1m[32m   Compiling[0m bs58 v0.4.0
+[0m[0m[1m[32m   Compiling[0m base64 v0.13.0
+[0m[0m[1m[32m   Compiling[0m near-sys v0.1.0
+[0m[0m[1m[36m    Building[0m [====>                      ] 10/49: bs58, hashbrown, memory_units, near-sys, itoa, cfg-if, ahas...[K[0m[0m[1m[32m   Compiling[0m hex v0.4.3
+[0m[0m[1m[36m    Building[0m [=====>                     ] 11/49: bs58, hashbrown, memory_units, near-sys, itoa, hex, ahash, ...[K[0m[0m[1m[32m   Compiling[0m ryu v1.0.5
+[0m[0m[1m[36m    Building[0m [===========>               ] 23/49: bs58, hashbrown, memory_units, itoa, hex, ryu, ahash, base64  [K[0m[0m[1m[32m   Compiling[0m wee_alloc v0.4.5
+[0m[0m[1m[36m    Building[0m [============>              ] 24/49: bs58, wee_alloc, hashbrown, memory_units, hex, ryu, ahash, ...[K[0m[0m[1m[32m   Compiling[0m hashbrown v0.9.1
+[0m[0m[1m[36m    Building[0m [=============>             ] 26/49: bs58, hashbrown, wee_alloc, hashbrown, hex, ryu, ahash, base64[K[0m[0m[1m[32m   Compiling[0m serde v1.0.137
+[0m[0m[1m[36m    Building[0m [=================>         ] 33/49: bs58, hashbrown, serde, wee_alloc, hashbrown, hex, ryu, base64[0m[0m[1m[36m    Building[0m [===================>       ] 37/49: hashbrown, serde, wee_alloc, hashbrown, hex, ryu, base64      [K[0m[0m[1m[32m   Compiling[0m indexmap v1.7.0
+[0m[0m[1m[36m    Building[0m [===================>       ] 37/49: hashbrown, serde, wee_alloc, indexmap, hashbrown, hex, ryu,...[0m[0m[1m[36m    Building[0m [===================>       ] 38/49: hashbrown, serde, wee_alloc, indexmap, hashbrown, hex, ryu    [0m[0m[1m[36m    Building[0m [====================>      ] 39/49: hashbrown, serde, wee_alloc, indexmap, hex, ryu               [0m[0m[1m[36m    Building[0m [=====================>     ] 40/49: hashbrown, serde, indexmap, hex, ryu                          [0m[0m[1m[36m    Building[0m [=====================>     ] 41/49: hashbrown, serde, indexmap, hex                               [0m[0m[1m[36m    Building[0m [======================>    ] 42/49: hashbrown, serde, indexmap                                    [K[0m[0m[1m[32m   Compiling[0m borsh v0.8.2
+[0m[0m[1m[36m    Building[0m [======================>    ] 42/49: hashbrown, serde, indexmap, borsh                             [0m[0m[1m[36m    Building[0m [======================>    ] 43/49: serde, indexmap, borsh                                        [0m[0m[1m[36m    Building[0m [=======================>   ] 44/49: serde, borsh                                                  [0m[0m[1m[36m    Building[0m [=======================>   ] 45/49: serde                                                         [K[0m[0m[1m[32m   Compiling[0m serde_json v1.0.66
+[0m[0m[1m[36m    Building[0m [=======================>   ] 45/49: serde_json, serde                                             [0m[0m[1m[36m    Building[0m [========================>  ] 46/49: serde_json                                                    [K[0m[0m[1m[32m   Compiling[0m near-sdk v4.0.0-pre.4
+[0m[0m[1m[36m    Building[0m [========================>  ] 46/49: serde_json, near-sdk                                          [0m[0m[1m[36m    Building[0m [========================>  ] 47/49: near-sdk                                                      [K[0m[0m[1m[32m   Compiling[0m rs_ncddemo v0.1.0 (/home/rwbell/near-demo/rs-ncddemo)
+[0m[0m[1m[36m    Building[0m [=========================> ] 48/49: rs_ncddemo                                                    [K[0m[1m[33mwarning[0m[0m[1m: constant is never used: `MANUFACTURER_ENTITY`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:51:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m51[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst MANUFACTURER_ENTITY: &str = "alice.testnet";[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(dead_code)]` on by default[0m
+
+[0m[0m[1m[36m    Building[0m [=========================> ] 48/49: rs_ncddemo                                                    [K[0m[1m[33mwarning[0m[0m[1m: constant is never used: `ECCUSTOMER_NUMBER`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:53:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m53[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst ECCUSTOMER_NUMBER: u8 = 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: constant is never used: `WSXG_BAG_PRICE`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:54:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m54[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst WSXG_BAG_PRICE: f64 = 17.50;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[36m    Building[0m [=========================> ] 48/49: rs_ncddemo                                                    [K[0m[0m[1m[33mwarning[0m[1m:[0m `rs_ncddemo` (lib) generated 3 warnings
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 15.56s
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ 
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ cp target/wasm32-unknown-unknown/release/*.wasm ./res/
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ 
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ cd res
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ ls
+[0m[01;32mrs_ncddemo.wasm[0m
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ ls
+[0m[01;32mrs_ncddemo.wasm[0m
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo/res[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo/res[00m$ BASH D[K[K[K[K[K[Kcd ..
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ ls
+Cargo.lock  README.md  [0m[01;32mbuild.bat[0m  dev-deploy.sh  [01;34mres[0m  [01;34mtarget[0m   typescript
+Cargo.toml  build      [01;32mbuild.sh[0m   [01;34mneardev[0m        [01;34msrc[0m  [01;32mtest.sh[0m
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ bash [K[K[K[K[Ksh dev-deploy.sh
+Missing $CONTRACT environment variable
+Missing $OWNER environment variable
+deleting  and setting  as beneficiary
+
+near delete <accountId> <beneficiaryId>
+
+delete an account and transfer funds to beneficiary account.
+
+Options:
+      --help                     Show help  [boolean]
+      --version                  Show version number  [boolean]
+      --nodeUrl, --node_url      NEAR node URL  [string] [default: "https://rpc.testnet.near.org"]
+      --networkId, --network_id  NEAR network ID, allows using different keys based on network  [string] [default: "testnet"]
+      --helperUrl                NEAR contract helper URL  [string]
+      --keyPath                  Path to master account key  [string]
+      --accountId, --account_id  Account to delete  [string] [required]
+      --useLedgerKey             Use Ledger for signing with given HD key path  [string] [default: "44'/397'/0'/0'/1'"]
+      --seedPhrase               Seed phrase mnemonic  [string]
+      --seedPath                 HD path derivation  [string] [default: "m/44'/397'/0'"]
+      --walletUrl                Website for NEAR Wallet  [string]
+      --contractName             Account name of contract  [string]
+      --masterAccount            Master account used when creating new accounts  [string]
+      --helperAccount            Expected top-level account for a network  [string]
+  -v, --verbose                  Prints out verbose output  [boolean] [default: false]
+  -f, --force                    Forcefully execute the desired action even if it is unsafe to do so  [boolean] [default: false]
+      --beneficiaryId            Account to transfer funds to  [string] [required]
+
+Not enough non-option arguments: got 0, need at least 2
+--------------------------------------------
+
+cleaning up the /neardev folder
+
+--------------------------------------------
+
+rebuilding the contract (release build)
+
+[0m[1m[33mwarning[0m[0m[1m: constant is never used: `MANUFACTURER_ENTITY`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:51:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m51[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst MANUFACTURER_ENTITY: &str = "alice.testnet";[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(dead_code)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: constant is never used: `ECCUSTOMER_NUMBER`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:53:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m53[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst ECCUSTOMER_NUMBER: u8 = 1;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: constant is never used: `WSXG_BAG_PRICE`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0msrc/lib.rs:54:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m54[0m[0m [0m[0m[1m[38;5;12m| [0m[0mconst WSXG_BAG_PRICE: f64 = 17.50;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[0m[1m[33mwarning[0m[1m:[0m `rs_ncddemo` (lib) generated 3 warnings
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 1.09s
+--------------------------------------------
+
+redeploying the contract
+
+Starting deployment. Account id: dev-1653156375820-98056441683875, node: https://rpc.testnet.near.org, helper: https://helper.testnet.near.org, file: ./res/rs_ncddemo.wasm
+Transaction Id CYirJVgG9dFB4z8wbYCmuveRwNjVPJ3e7Bcxxaxs5dJX
+To see the transaction in the transaction explorer, please open this url in your browser
+https://explorer.testnet.near.org/transactions/CYirJVgG9dFB4z8wbYCmuveRwNjVPJ3e7Bcxxaxs5dJX
+Done deploying to dev-1653156375820-98056441683875
+--------------------------------------------
+run the following commands
+
+set CONTRACT=<contract name dev-1653-1148>
+set OWNER=<your account name>
+near call \$CONTRACT new {entity_account:richardbell.testnet,entity_main_account:$OWNER,entity_name:Alices Wholesale Garden Products,entity_status:Applicant,entity_description:We supply the best all natural garden products,entity_owner:$OWNER,entity_allowed_inventory_bags:40,entity_allowed_inventory_cases:20,entity_bag_inventory:25,entity_case_inventory:10,_entity_customer_orders:{}} --accountId \$OWNER
+echo near call $CONTRACT set_entity_owner {"owner":\$OWNER} --accountId $OWNER
+echo near call $CONTRACT check_owner {"owner":\$OWNER} --accountId $OWNER
+
+
+]0;rwbell@Richards-Alienware-Laptop: ~/near-demo/rs-ncddemo[01;32mrwbell@Richards-Alienware-Laptop[00m:[01;34m~/near-demo/rs-ncddemo[00m$ set CONTRACT-[K=<^V[Kto dev-1653156375820-98056441683875[1Pdev-1653156375820-98056441683875[1Pdev-1653156375820-98056441683875[1Pdev-1653156375820-98056441683875[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>
+bash: syntax error near unexpected token `newline'
+
+Script done on 2022-05-21 13:08:53-05:00 [COMMAND_EXIT_CODE="2"]
