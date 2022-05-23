@@ -779,6 +779,7 @@ mod tests {
     fn debug_check_contract() {
         // Get alice as an account ID
         let alice = AccountId::new_unchecked(MANUFACTURER_ENTITY.to_string());
+
         // Set up the testing context and unit test environment
         let context = get_context(alice);
         testing_env!(context.build());
@@ -794,32 +795,34 @@ mod tests {
         let entity_case_inventory = 10;
         let _entity_customer_orders:HashMap<u64, EndCustomerOrder> = HashMap::new();
         
-        let mut entity_owner:std::string::String ="alice.testnet".to_string();
+        let entity_owner:std::string::String ="alice.testnet".to_string();
         let _temp_id="alice.testnet".to_string();
+        
         // Call the new method
         
         let mut contract = Contract::new();
 
+        let owner_before = entity_owner.to_string();
+        
+        
+        println!("Entity owner is before encription: {:?}",owner_before);
+        
         contract.set_entity_owner(entity_owner.to_string());
         contract.set_entity_main_account(AccountId::new_unchecked(_temp_id));
         contract.set_entity_name(entity_name.to_string());
         contract.set_entity_status(entity_status.to_string());
         contract.set_entity_description(entity_description.to_string());
+        
         contract.set_entity_owner(entity_owner.to_string());
+        env::log_str("Owner set");
+        
         contract.set_entity_allowed_inventory_bags(entity_allowed_inventory_bags as u8);
         contract.set_entity_allowed_inventory_cases(entity_allowed_inventory_cases as u8);
         contract.set_entity_bag_inventory(entity_bag_inventory as u8);
         contract.set_entity_case_inventory(entity_case_inventory as u8);
-        
-        println!("Entity owner is before encription: {:?}",Contract::get_entity_owner(&mut contract));
-        
-        let owner_before = Contract::get_entity_owner(&mut contract);
-        //encript owner account id
-        entity_owner = Contract::get_entity_owner(&mut contract);
-        Contract::set_entity_owner(&mut contract,entity_owner);
-        env::log_str("Owner set");
-        
+                
         let _owner_check = Contract::check_owner(&mut contract, owner_before);
+        
         assert!(_owner_check == true, "Passed true owner test");
         
         let _test_owner = "wrongowner.testnet".to_string();
@@ -899,7 +902,9 @@ mod tests {
                 println!("End Customer Zip                 : {:?}",_end_customer_order.ec_ws_zip);
                 println!("End Customer Shipping Cost       : {:?}",_end_customer_order.ec_ws_shipping_cost);
                 println!("End Customer Order Status        : {:?}",_end_customer_order.ec_ws_order_status);
+                assert!(_end_customer_order.ec_ws_order_status == "Ordered", "Order status check correct.");
             }
+      
         }     
 }
 
